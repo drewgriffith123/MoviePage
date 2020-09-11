@@ -1,3 +1,5 @@
+/* The Nav bar loses its formatting if the css files are separate, so they all draw from this file instead */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
