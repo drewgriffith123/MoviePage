@@ -1,0 +1,70 @@
+.bg-cover {
+    background-image: url("../images/bg-image.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.center-me {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.form-signin {
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0px 0px 50px 0px #820000;
+    width: 120%;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+.checkbox {
+    text-align: left;
+}
+
+#login-button {
+    background-color: #820000;
+    color: white;
+}
+
+#login-button:hover, #login-button:focus, #login-button:active, #login-button.active {
+    background-color: black;
+}
+
+.btn {
+    color: #820000;
+    background-color: white;
+    border: 0px;
+}
+
+.btn:hover, .btn:focus, .btn:active, .btn.active {
+    background-color: black;
+}
+
+#copyright {
+    color: black !important;
+}
+
+.navbar {
+    background-color: #820000 !important;
+}
+
+.carousel-inner img {
+    margin: auto;
+}
+
+.carousel {
+    width: 100%;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.container {
+    float: left;
+}
