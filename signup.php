@@ -1,5 +1,5 @@
 <?php
-require "include/header.php"
+require "includes/header.php"
 ?>
 
 <main>
@@ -7,7 +7,7 @@ require "include/header.php"
         <div class="h-100 container center-me">
             <div class="my-auto">
                 <div class="signup-form">
-                    <form action="include/signup-helper.php" method="post">
+                    <form action="includes/signup-helper.php" method="post">
                         <h2>Register</h2>
                         <p class="hint-text">Create your account!</p>
 
@@ -40,7 +40,7 @@ require "include/header.php"
                         </div>
                     </form>
 
-                    <div class="text-center">Already a member? <a href="login.html">Sign In</a></div>
+                    <div class="text-center">Already a member? <a href="login.php">Sign In</a></div>
                 </div>
             </div>
         </div>

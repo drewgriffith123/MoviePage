@@ -15,6 +15,7 @@ width: 50%;
     display: flex;
     justify-content: center;
     padding: 40px;
+    text-align: center;
 }
 
 .signup-form {
@@ -26,4 +27,8 @@ width: 50%;
 
 input {
     margin-bottom: 10px;
+}
+
+.navbar {
+    background-color: #820000 !important;
 }
