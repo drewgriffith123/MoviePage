@@ -42,9 +42,8 @@ session_start();
                 }
                 ?>
 
-                <li class="nav-item">
-                    <a class="nav-link" href="about.php">About Us</a>
-                </li>
+                <li class="nav-item"><a class="nav-link" href="signup.php">Sign Up</a></li>
+                <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
             </ul>
         </div>
     </nav>
