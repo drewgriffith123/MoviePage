@@ -4,11 +4,11 @@
     background-position: center;
     background-size: cover;
     background-attachment: scroll;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
 }
 
 .container {
-width: 50%;
+    width: 50%;
 }
 
 .center-me {
@@ -31,4 +31,5 @@ input {
 
 .navbar {
     background-color: #820000 !important;
+    text-align: left;
 }
