@@ -113,7 +113,7 @@ CREATE TABLE `villains` (
   `title` varchar(60) NOT NULL,
   `descript` text NOT NULL,
   `picpath` varchar(100) NOT NULL,
-  `upload_date` date NOT NULL DEFAULT current_timestamp(),
+  `upload_date` timestamp NOT NULL DEFAULT current_timestamp(),
   `rating` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 

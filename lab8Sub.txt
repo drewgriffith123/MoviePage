@@ -4,8 +4,8 @@ cs230Lab1030
 micaustin
 cs230Lab1030
 
- https://221221215069.signin.aws.amazon.com/console
+https://221221215069.signin.aws.amazon.com/console
 
- AKIATHAOP3NO3V4A6XED
+AKIATHAOP3NO3V4A6XED
 
- OTRtTTLauAKkf/pCzdzMHj0B+iZ1LsKFZa9xIbsU
+OTRtTTLauAKkf/pCzdzMHj0B+iZ1LsKFZa9xIbsU
