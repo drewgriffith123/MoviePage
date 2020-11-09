@@ -39,7 +39,7 @@ require 'includes/header.php';
                 <form class="form-signin" action="includes/login-helper.php" method="post">
                     <img src="images/symbol.jpg" style="width: 50%;">
                     <h1 class="h3 mb-3 font-weight-normal">Please Sign In</h1>
-                    <label for="inputEmail"  class="sr-only">Username / Email Address</label>
+                    <label for="inputEmail" class="sr-only">Username / Email Address</label>
                     <input type="email" name="uname" id="inputEmail" class="form-control" placeholder="Username / Email Address" required autofocus>
 
                     <label type="password" class="sr-only">Password</label>
